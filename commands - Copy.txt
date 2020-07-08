@@ -27,3 +27,9 @@ After pull made changes to file and want to commit ??
 9.  $ git add -A
 10. $ git commit -m "commands.txt"
 11. $ git push -u origin master
+
+How to check list of branches ?
+$ git branch
+
+How to create branch ??
+$ git branch viraj-prod
