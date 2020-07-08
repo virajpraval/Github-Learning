@@ -7,4 +7,8 @@ git status
 
 $ git add -A
 
-$ git commit -m "code1.txt"
+$ git commit -m "code1.txt"  == GIT Ready 
+
+git remote add origin https://github.com/virajpraval/Github-Learning.git  == Link with GITHUB 
+
+git push -u origin master  == push code to GIT 
