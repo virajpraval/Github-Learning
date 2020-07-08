@@ -1,2 +1,10 @@
 $ git config --global user.email "er.virajraval@gmail.com"
 $ git config --global user.name "virajpraval"
+
+$ git init
+
+git status
+
+$ git add -A
+
+$ git commit -m "code1.txt"
